@@ -1,0 +1,22 @@
+.doboz{
+    background-color: orange;
+    padding: 20px;
+    width: 80%;
+    border: 5px solid black;
+    margin: 20px;
+}
+
+#pottyos{
+    border: 20px dotted skyblue;
+}
+
+
+#vonalas{
+    border: 10px double;
+}
+
+
+    .doboz h1{
+        margin:0;
+background-color:orchid
+    }
